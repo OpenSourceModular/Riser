@@ -1,5 +1,6 @@
 # Riser
-![Screenshot](RiserPanel.png)
+![Screenshot](RiserPanel.png)<br>
+<br>
 Clocked Stepped Envelope<br>
 This an Arduino Nano based eurorack module that uses the MCP4725 DAC Module.<br>
 Inputs:<br>
