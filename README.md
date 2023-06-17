@@ -1,6 +1,7 @@
 # Riser
 ![Screenshot](RiserPanel.png)<br>
 <br>
+# [BOM:Bill of materials](https://github.com/OpenSourceModular/Riser/blob/main/BOM_Riser%20Complete%20Schem_2023-06-17.csv)
 ## Clocked Stepped Envelope<br>
 This an Arduino Nano based eurorack module that uses the MCP4725 DAC Module.<br>
 ### Inputs:<br>
@@ -80,6 +81,7 @@ CV In - connect 0-5V here. The destination depends on the position of the CV Des
 ### Outputs:<br>
 CV Out - this ouputs 0-10V depending on the amplitude knob.
 Pulse - this sends a pulse at the start of each envelope cycle. When in Turing mode, this will output pulses.
+
 
 
 
