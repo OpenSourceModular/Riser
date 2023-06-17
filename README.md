@@ -4,6 +4,9 @@
 # [BOM:Bill of materials](https://github.com/OpenSourceModular/Riser/blob/main/BOM_Riser%20Complete%20Schem_2023-06-17.csv)
 ## Clocked Stepped Envelope<br>
 This an Arduino Nano based eurorack module that uses the MCP4725 DAC Module.<br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/Ym6SZRJROR8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### Inputs:<br>
 Clock - input a 5v clock signal - protected from over 5V and under 0V<br>
 Reset - input a 5v signal to reset the wave from. The software can also be changed to turn the module into a one-shot envelope generator with each envelope being triggered by this input jack.<br>
